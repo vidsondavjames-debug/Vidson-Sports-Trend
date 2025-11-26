@@ -164,7 +164,7 @@ body {
 }
 
 .hero-pg {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.147), rgba(0, 0, 0, 0.684)), url(./assets/logo-vidson-badge.svg);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.308)), url(./assets/logo-vidson-badge.svg);
     background-position: center;
     background-size: cover;
     height: 90vh;
