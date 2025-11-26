@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+
+    <h2>Login</h2>
+    <form action="/submit-login" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br><br>
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <!-- <label for="Comments">Comments</label> -->
+        <!-- <textarea name="comments" id="comments" cols="30" rows="10" placeholder=""></textarea> -->
+        <textarea id="comments" name="comments" rows="10" cols="40" placeholder="Enter your comments here..."></textarea><br><br>
+        <button>SUBMIT</button>
+        
+        <input type="submit" value="Login">
+    </form>
+
+
+</body>
+</html>

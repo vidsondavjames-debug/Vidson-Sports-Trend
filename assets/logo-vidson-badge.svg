@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Compact badge derived from the ASCII block for avatars and favicons -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="t">
+  <title id="t">VIDSON badge</title>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="28" fill="url(#g)" />
+  <g font-family="'Courier New', monospace" text-anchor="middle" fill="#fff">
+    <text x="100" y="80" font-size="44" font-weight="800">V</text>
+    <text x="100" y="112" font-size="12" font-weight="700">VIDSON</text>
+    <text x="100" y="138" font-size="10" font-weight="600">SPORTS TRENDS</text>
+  </g>
+</svg>
